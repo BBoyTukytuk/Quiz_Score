@@ -13,7 +13,7 @@ let availableQuestions = []
 let questions = [
     {
         question: 'You are in the 13th floor of a building and you are outside on the balcony. As you look down, you witness a murder. The murderer then looks up and stares up at you for a while. What is the murderer doing?',
-        choice1: 'Playing',
+        choice1: '🔪Playing',
         choice2: 'Listening',
         choice3: 'Counting',
         answer: 3,
