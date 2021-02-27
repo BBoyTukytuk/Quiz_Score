@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 
-:root{
-    background-color: #07b3a4;
+
+:root {
+  --main-bg-color:#07b3a4;
 }
 
 *{
