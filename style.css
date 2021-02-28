@@ -4,6 +4,12 @@
     background-color: #21a084;
 }
 
+.row {
+    display: flex; }
+    
+.col {
+    flex: 1; }
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -14,7 +20,7 @@
 }
 
 h1{
-    font-size: 2rem;
+    font-size: 3rem;
     color: white;
     margin-bottom:5rem;
 
