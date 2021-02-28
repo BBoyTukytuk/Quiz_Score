@@ -1,5 +1,7 @@
 body {
-    color: rgb(6, 141, 96);
+  color: rgb(6, 141, 96);
+  height: 100%;
+  display: flex;
 }
 
 .choice-container {
